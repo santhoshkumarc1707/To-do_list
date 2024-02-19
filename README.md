@@ -2,3 +2,9 @@
 
 
 click on download zip
+After download unzip the files
+open with vs code editor
+run a commend 
+1.npm i
+2.npm run dev
+
